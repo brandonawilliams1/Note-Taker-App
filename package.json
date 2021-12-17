@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.2.0"
+  },
+  "name": "note-taker-app",
+  "version": "1.0.0",
+  "description": "note-taker-app",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonawilliams1/Note-Taker-App.git"
+  },
+  "keywords": [
+    "note-taker-app"
+  ],
+  "author": "Brandon Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonawilliams1/Note-Taker-App/issues"
+  },
+  "homepage": "https://github.com/brandonawilliams1/Note-Taker-App#readme"
+}
