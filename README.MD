@@ -18,9 +18,11 @@
   ---
   ## Installation
   npm i
+  
   ---
   ## Run app on local server
   npm start
+  
   ---
   ## Usage
   A tool to help you learn to build an app and host on huroku
