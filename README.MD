@@ -1,7 +1,7 @@
 ** NOTE TAKER APP
 # [Launch App (press Ctrl or CMD + Click to open in new tab)](https://remind-me-note-taker-app-387ed736a7df.herokuapp.com/) 
 ![screenshot of note taking app](https://github.com/brandonawilliams1/Note-Taker-App/blob/main/public/assets/note-taker-screenshot.png?raw=true)
-# Notetaker App 5000 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+# Remind Me Note Taker App [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   
   # Description
   This app allows a user to enter, save, and delete notes
@@ -18,6 +18,9 @@
   ---
   ## Installation
   npm i
+  ---
+  ## Run app on local server
+  npm start
   ---
   ## Usage
   A tool to help you learn to build an app and host on huroku
