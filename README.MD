@@ -19,7 +19,7 @@
   npm i
   ---
   ## Usage
-  A tool to help you lear to build an app and host on huroku
+  A tool to help you learn to build an app and host on huroku
 
   ---
   ## Contribution Guidelines
@@ -29,7 +29,7 @@
   ## Questions
 
   Contact me at: 
-  * Github: https://github.com/undefined
+  * Github: https://github.com/brandonawilliams1
   * Email: n/a
   
   ## License 
